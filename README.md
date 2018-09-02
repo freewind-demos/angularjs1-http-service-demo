@@ -1,11 +1,11 @@
-AngularJS1 App Module Demo
-==========================
+AngularJS1 `$http` Service Demo
+===============================
 
 ```
 npm install
-open index.html
+npm start
 ```
 
-Type your name in the text field, and see the changes.
+Click on the "Fetch" button, you will see:
 
 ![demo](./images/demo.jpg)
